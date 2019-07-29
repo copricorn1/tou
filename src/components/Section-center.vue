@@ -53,13 +53,13 @@
   }
 
   .el-col-12 {
-    width: 48%;
+    width: 49%;
   }
 
   .im0a {
     width: 660px;
     height: 212px;
-    margin-top: 20px;
+    margin-top: -5px;
     background: #fff
   }
 

@@ -3,6 +3,7 @@
       <ToolBar/>
       <NavgationBar/>
       <Section/>
+      <Fotter/>
     </div>
 </template>
 
@@ -10,9 +11,10 @@
   import  ToolBar from './components/ToolBar.vue'
   import  NavgationBar from './components/Navigation-Bar'
   import  Section from './components/Section'
+  import  Fotter from './components/Fotter'
   export default {
     name: 'App',
-    components:{ToolBar,NavgationBar,Section},
+    components:{ToolBar,NavgationBar,Section,Fotter},
     methods:{}
   }
 

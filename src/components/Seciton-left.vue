@@ -34,7 +34,7 @@
         </el-menu>
       </el-col>
     </el-row>
-    <div>
+    <div class="yy">
       <img src="../components/image/rili.png" height="160" width="190" style="margin-left: 30px"/>
     </div>
     <div class="right-menu" v-if="nShow">
@@ -155,7 +155,12 @@
 </script>
 
 <style>
-
+  .yy {
+    margin: 2rem 0 0 4rem;
+  }
+  .yy img{
+    box-shadow: inset 0 0 8px 0 #f27218;
+  }
 
   .a{
     position: relative;
@@ -185,7 +190,13 @@
    margin-left: 94px;
   }
 
+  .el-submenu {
 
+    margin: 0.3rem;
+  }
+  .el-menu-item {
 
+    margin: 0.3rem 0;
+  }
 </style>
 
