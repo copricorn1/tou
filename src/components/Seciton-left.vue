@@ -35,7 +35,7 @@
       </el-col>
     </el-row>
     <div class="yy">
-      <img src="../components/image/rili.png" height="160" width="190" style="margin-left: 30px"/>
+      <img src="../components/image/rili.png" height="160" width="170" />
     </div>
     <div class="right-menu" v-if="nShow">
       <dl>
@@ -156,7 +156,7 @@
 
 <style>
   .yy {
-    margin: 2rem 0 0 4rem;
+    margin: 2.2rem 0 0 8rem;
   }
   .yy img{
     box-shadow: inset 0 0 8px 0 #f27218;
@@ -178,7 +178,10 @@
 
   }
   .tac .el-col-12 {
-    width: 80%;
+    width: 97%;
+  }
+  .el-col-6 {
+    width: 21%;
   }
   .el-menu{
     padding-left: 0;

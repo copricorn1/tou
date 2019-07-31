@@ -13,7 +13,7 @@
         <a href="https://www.zhiwuwang.com/sitemap/">网站地图</a> &nbsp;|&nbsp;
         <a href="https://www.zhiwuwang.com/spread/">排名推广</a> &nbsp;|&nbsp;
         <a href="https://www.zhiwuwang.com/ad/">广告服务</a> &nbsp;|&nbsp; <a href="https://www.zhiwuwang.com/guestbook/">网站留言</a> &nbsp;|&nbsp; <a href="https://www.zhiwuwang.com/feed/">RSS订阅</a> &nbsp;|&nbsp;
-        <a href="javascript:SendReport();">违规举报</a>
+        <a href="javascript:;">违规举报</a>
       </div>
     </div>
     <div class="m">
@@ -31,12 +31,12 @@
     <div class="">
       <div class="footer-ali-certs">
         <ul>
-          <li><a href=" zhiwuwang.com" target="_blank" rel="nofollow"><img src="../assets/banquan/x-gswj.png" alt="工信部备案"></a></li>
-          <li><a href="  7" target="_blank" rel="nofollow"><img src="../assets/banquan/x-gswj.png" alt="网安备案"></a></li>
-          <li><a href=" 45" target="_blank" rel="nofollow"><img src="../assets/banquan/x-gswj.png" style="height:52px;" alt="湖北工商网监"></a></li>
-          <li><a href="" style="height:52px;" alt="网站实名认证"><img src="../assets/banquan/x-gswj.png" style="height:52px;" alt="湖北工商网监"></a></li>
-          <li><a id=" " href="" target="_blank"><img src="../assets/banquan/x-gswj.png" border="0" style="height:52px;"></a></li>
-          <li><a href="https://www.cyberpolice.cn/wfjb/html/index.shtml" target="_blank" rel="nofollow"><img src="../assets/banquan/x-wangan.png" alt="网络警察"></a></li>
+          <li><a href=" zhiwuwang.com" target="_blank" rel="nofollow"><img src="../assets/x-gswj.png" alt="工信部备案"></a></li>
+          <li><a href="  7" target="_blank" rel="nofollow"><img src="../assets/x-gswj.png" alt="网安备案"></a></li>
+          <li><a href=" 45" target="_blank" rel="nofollow"><img src="../assets/x-gswj.png" style="height:52px;" alt="湖北工商网监"></a></li>
+          <li><a href="" style="height:52px;" alt="网站实名认证"><img src="../assets/x-gswj.png" style="height:52px;" alt="湖北工商网监"></a></li>
+          <li><a id=" " href="" target="_blank"><img src="../assets/x-gswj.png" border="0" style="height:52px;"></a></li>
+          <li><a href="https://www.cyberpolice.cn/wfjb/html/index.shtml" target="_blank" rel="nofollow"><img src="../assets/x-wangan.png" alt="网络警察"></a></li>
         </ul>
       </div>
     </div>
@@ -67,7 +67,7 @@
     overflow: hidden;
     color: #666;
     border-top: 2px solid #5f9a17;
-    padding-top: 10px;
+    padding-top: 1px;
   }
 
 

@@ -4,9 +4,11 @@
     <div id="user-info-right">
       <div class="user-info-top">
         <div class="shangchen" >
+
           <svg class="icon" aria-hidden="true">
             <use xlink:href="#icon-morentouxiang"></use>
           </svg>
+
           <h4>Hi,who-capricorn&nbsp;退出	</h4>
 
           <h6><a href="">会员中心|</a><a href="">发布信息|</a><a href="">商户</a></h6>
@@ -31,26 +33,28 @@
 
       <div class="user-info-bottom">
         <!--书讯快递-->
-<!--          <div class="book_sort">-->
-<!--            <div class="book_sort_bg"><img src="" alt="mess" style=" vertical-align:text-bottom;">书讯快递</div>-->
-<!--            <div class="book_class">-->
-<!--              <div id="dome">-->
-<!--                <div id="dome1">-->
-<!--                  <ul id="express">-->
-<!--                    <li style="margin-top: -17px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li><li style="margin-top: 0px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li><li style="margin-top: 0px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li><li style="margin-top: 0px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li></ul>-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </div>-->
+          <div class="book_sort">
+            <div class="book_sort_bg"><img src="./image/dd_book_mess.gif" alt="mess" style=" vertical-align:text-bottom;">书讯快递</div>
+            <div class="book_class">
+              <div id="dome">
+                <div id="dome1">
+                  <ul id="express">
+                    <li style="margin-top: -17px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li><li style="margin-top: 0px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li><li style="margin-top: 0px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li><li style="margin-top: 0px;">・口述历史权威唐德刚先生国...</li><li style="margin-top: 0px;">・袁伟民与体坛风云：实话实...</li><li style="margin-top: 0px;">・我们台湾这些年：轰动两岸...</li><li style="margin-top: 0px;">・畅销教辅推荐：精品套书50...</li><li style="margin-top: 0px;">・2010版法律硕士联考大纲75...</li><li style="margin-top: 0px;">・计算机新书畅销书75折抢购</li><li style="margin-top: 0px;">・2009年孩子最喜欢的书&gt;&gt;</li><li style="margin-top: 0px;">・弗洛伊德作品精选集59折</li><li style="margin-top: 0px;">・2010考研英语大纲到货75折...</li><li style="margin-top: 0px;">・权威定本四大名著（人民文...</li></ul>
+                </div>
+              </div>
+            </div>
+          </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+  import '../icons/annimation'
   export default {
     name: 'Seciton-left',
   }
+
 </script>
 
 <style >
@@ -80,6 +84,8 @@
 .shangchen h4,h6{
   display: inline-table;
 }
+/*margin-right: 1rem;
+  font-size:3.125rem ;*/
 .icon {
   width: 1em;
   height: 1em;
@@ -88,7 +94,7 @@
   overflow: hidden;
   color: dimgray;
   margin-right: 1rem;
-  font-size:3.125rem ;
+  font-size:3.125rem
 }
 #user-info-right{
   width: 27.5rem;
@@ -134,7 +140,6 @@
   text-align: center;
   font-weight: 700;
   color: #ddd;
-  font-family: simsun;
 }
 
 
@@ -172,7 +177,7 @@
     line-height:25px;
   }
   .book_cate{
-    padding:10px 0px 0px 10px;
+    padding:10px 0 0 10px;
     font-weight:bold;
   }
 
